@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Courses</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Link for font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+</head>
+
+<i class="tutor-icon-star-full" data-rating-value="1"></i>
+
+<body>
+    <header>
+        <h2><a href="projet.html" class="logo">ECOURSES</a></h2>
+        <div class="logIn_btn">
+            <!-- <button class="brnFirst">Log In</button> -->
+        </div>
+
+        <div class="formContainer">
+            <!-- <form id="login-form">
+                <div>
+                    <label for="username" class="inputTitle">Username:</label>
+                    <input type="text" id="username" name="username" /><br />
+                </div>
+
+                <div>
+                    4<label for="password" class="inputTitle">Password:</label>
+                    <input type="password" id="password" name="password" /><br />
+                </div>
+
+                <input type="button" value="Log In" id="submitForm" />
+            </form> -->
+        </div>
+
+        <div id="result"></div>
+
+        <ul>
+            <li><a href="#">learn programing</a></li>
+            <li><a href="./projectITI/main.html">problem solving</a></li>
+            <li><a href="#">all courses</a></li>
+            <li><a href="#">home</a></li>
+        </ul>
+    </header>
+    <div>
+        <div class="right">
+            <div>
+                <div class="box"> <input id="searched" type="search" placeholder="Search...."><i
+                        class="fa-sharp fa-solid fa-magnifying-glass"></i>
+                </div>
+                <h3>Category</h3>
+                <input id="check1" type="checkbox" name="Category"><label for="check1">Backend</label><br>
+                <input id='check2' type="checkbox" name="Category"><label for="check2">Frontend</label>
+            </div>
+            <div>
+                <h3>Level</h3>
+                <input id="check3" type="checkbox" name="Level"><label for="check3"> Beginner</label><br>
+                <input id="check4" type="checkbox" name="Level"><label for="check4">Intermediate</label><br>
+                <input id="check5" type="checkbox" name="Level"><label for="check5"> Expert</label>
+            </div>
+        </div>
+
+
+        <div class="main">
+            <div class="flexed">
+                <div class="card root" id="test" style="width: 18rem; margin-top: 15%;">
+                    <img src="./img/html.jpg" class="card-img-top " alt="..." width="100%">
+                    <div class="card-body">
+
+                        <!-- <div class="rating">
+                            <input type="radio" id="star5" name="rating" value="5" /><label for="star5"></label>
+                            <input type="radio" id="star4" name="rating" value="4" /><label for="star4"></label>
+                            <input type="radio" id="star3" name="rating" value="3" /><label for="star3"></label>
+                            <input type="radio" id="star2" name="rating" value="2" /><label for="star2"></label>
+                            <input type="radio" id="star1" name="rating" value="1" /><label for="star1"></label>
+                        </div> -->
+
+                        <h5 class="card-title">HTML</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the
+                            card's content.</p>
+                        <a href='htmlcouse.html' class="btn btn-primary" target="_blank">HTML</a>
+                    </div>
+                </div>
+                <div class="card root" style="width: 18rem; margin-top: 15%;">
+                    <img src="img/thml5.jpg" class="card-img-top" alt="..." width="100%">
+                    <div class="card-body">
+                        <!-- <div class="rating">
+                            <input type="radio" id="star5" name="rating" value="5" /><label for="star5"></label>
+                            <input type="radio" id="star4" name="rating" value="4" /><label for="star4"></label>
+                            <input type="radio" id="star3" name="rating" value="3" /><label for="star3"></label>
+                            <input type="radio" id="star2" name="rating" value="2" /><label for="star2"></label>
+                            <input type="radio" id="star1" name="rating" value="1" /><label for="star1"></label>
+                        </div> -->
+
+                        <h5 class="card-title">HTML5</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the
+                            card's content.</p>
+                        <a href="html5couse.html" class="btn btn-primary" target="_blank">HTML5</a>
+                    </div>
+                </div>
+                <div class="card root" style="width: 18rem; margin-top: 15%;">
+                    <img src="img/css.jpg" class="card-img-top" alt="..." width="100%">
+                    <div class="card-body">
+                        <!-- <div class="rating">
+                            <input type="radio" id="star5" name="rating" value="5" /><label for="star5"></label>
+                            <input type="radio" id="star4" name="rating" value="4" /><label for="star4"></label>
+                            <input type="radio" id="star3" name="rating" value="3" /><label for="star3"></label>
+                            <input type="radio" id="star2" name="rating" value="2" /><label for="star2"></label>
+                            <input type="radio" id="star1" name="rating" value="1" /><label for="star1"></label>
+                        </div> -->
+
+                        <h5 class="card-title">CSS</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the
+                            card's content.</p>
+                        <a href="cssCouse.html" class="btn btn-primary" target="_blank">CSS</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flexed">
+                <div class="card" style="width: 18rem;">
+                    <img src="img/CSS3.png" class="card-img-top" alt="..." width="100%">
+                    <div class="card-body">
+                        <!-- <div class="rating">
+                            <input type="radio" id="star5" name="rating" value="5" /><label for="star5"></label>
+                            <input type="radio" id="star4" name="rating" value="4" /><label for="star4"></label>
+                            <input type="radio" id="star3" name="rating" value="3" /><label for="star3"></label>
+                            <input type="radio" id="star2" name="rating" value="2" /><label for="star2"></label>
+                            <input type="radio" id="star1" name="rating" value="1" /><label for="star1"></label>
+                        </div> -->
+
+                        <h5 class="card-title">CSS3</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the
+                            card's content.</p>
+                        <a href="css3Couse.html" class="btn btn-primary" target="_blank">CSS3</a>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem;">
+                    <img src="img/js.jpg" class="card-img-top" alt="..." width="100%">
+                    <div class="card-body">
+                        <!-- <div class="rating">
+                            <input type="radio" id="star5" name="rating" value="5" /><label for="star5"></label>
+                            <input type="radio" id="star4" name="rating" value="4" /><label for="star4"></label>
+                            <input type="radio" id="star3" name="rating" value="3" /><label for="star3"></label>
+                            <input type="radio" id="star2" name="rating" value="2" /><label for="star2"></label>
+                            <input type="radio" id="star1" name="rating" value="1" /><label for="star1"></label>
+                        </div> -->
+
+                        <h5 class="card-title">JavaScript</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the
+                            card's content.</p>
+                        <a href="JScouse.html" class="btn btn-primary" target="_blank">JavaScript</a>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem;">
+                    <img src="img/bootstram.jpg" class="card-img-top" alt="..." width="100%">
+                    <div class="card-body">
+                        <!-- <div class="rating">
+                            <input type="radio" id="star5" name="rating" value="5" /><label for="star5"></label>
+                            <input type="radio" id="star4" name="rating" value="4" /><label for="star4"></label>
+                            <input type="radio" id="star3" name="rating" value="3" /><label for="star3"></label>
+                            <input type="radio" id="star2" name="rating" value="2" /><label for="star2"></label>
+                            <input type="radio" id="star1" name="rating" value="1" /><label for="star1"></label>
+                        </div> -->
+
+                        <h5 class="card-title">BootStrap</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
+                            the
+                            card's content.</p>
+                        <a href="BootStrapCousre.html" class="btn btn-primary" target="_blank">BootStrap</a>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <footer>
+        <p>
+            Copyright &copy; 2023 <img src="images/iti-team.png" alt="logo" /> All
+            Rights Reserved.
+        </p>
+    </footer>
+    <script src="main.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,88 @@
+
+
+
+
+[
+  {
+    "title": "What are the three important manipulations done in a for loop on a loop variable?",
+    "answer_1": "Updation, Incrementation, Initialization",
+    "answer_2": "Initialization,Testing, Updation",
+    "answer_3": "Testing, Updation, Testing",
+    "answer_4": "Initialization,Testing, Incrementation",
+    "right_answer": "Initialization,Testing, Updation"
+  },
+  {
+    "title": "One of the special features of an interpreter in reference with the for loop is that ___________",
+    "answer_1": "Before each iteration, the interpreter evaluates the variable expression and assigns the name of the property",
+    "answer_2": "The iterations can be infinite when an interpreter is used",
+    "answer_3": "The body of the loop is executed only once",
+    "answer_4": "the iteration is finite when an interpreter is used",
+    "right_answer": "Before each iteration, the interpreter evaluates the variable expression and assigns the name of the property"
+  },
+  {
+    "title": "What will happen if the body of a for/in loop deletes a property that has not yet been enumerated?",
+    "answer_1": "The property will be stored in a cache",
+    "answer_2": "The loop will not run",
+    "answer_3": "That property will not be enumerated",
+    "answer_4": "The property will be enumerated",
+    "right_answer": "That property will not be enumerated"
+  },
+  {
+    "title": "What will be the step of the interpreter in a jump statement when an exception is thrown?",
+    "answer_1": "The interpreter stops its work",
+    "answer_2": "The interpreter throws another exception",
+    "answer_3": "The interpreter jumps to the nearest enclosing exception handler",
+    "answer_4": "The interpreter throws an error",
+    "right_answer": "The interpreter jumps to the nearest enclosing exception handler"
+  },
+  {
+    "title": "Among the keywords below, which one is not a statement?",
+    "answer_1": "debugger",
+    "answer_2": "with",
+    "answer_3": "if",
+    "answer_4": "use strict",
+    "right_answer": "use strict"
+  },
+  {
+    "title": "What are the three important manipulations done in a for loop on a loop variable?",
+    "answer_1": "Updation, Incrementation, Initialization",
+    "answer_2": "Initialization,Testing, Updation",
+    "answer_3": "Testing, Updation, Testing",
+    "answer_4": "Initialization,Testing, Incrementation",
+    "right_answer": "Initialization,Testing, Updation"
+  },
+  {
+    "title": "One of the special features of an interpreter in reference with the for loop is that ___________",
+    "answer_1": "Before each iteration, the interpreter evaluates the variable expression and assigns the name of the property",
+    "answer_2": "The iterations can be infinite when an interpreter is used",
+    "answer_3": "The body of the loop is executed only once",
+    "answer_4": "the iteration is finite when an interpreter is used",
+    "right_answer": "Before each iteration, the interpreter evaluates the variable expression and assigns the name of the property"
+  },
+  {
+    "title": "What will happen if the body of a for/in loop deletes a property that has not yet been enumerated?",
+    "answer_1": "The property will be stored in a cache",
+    "answer_2": "The loop will not run",
+    "answer_3": "That property will not be enumerated",
+    "answer_4": "The property will be enumerated",
+    "right_answer": "That property will not be enumerated"
+  },
+  {
+    "title": "Among the keywords below, which one is not a statement?",
+    "answer_1": "debugger",
+    "answer_2": "with",
+    "answer_3": "if",
+    "answer_4": "use strict",
+    "right_answer": "use strict"
+  },
+  {
+    "title": "What will be the step of the interpreter in a jump statement when an exception is thrown?",
+    "answer_1": "The interpreter stops its work",
+    "answer_2": "The interpreter throws another exception",
+    "answer_3": "The interpreter jumps to the nearest enclosing exception handler",
+    "answer_4": "The interpreter throws an error",
+    "right_answer": "The interpreter jumps to the nearest enclosing exception handler"
+  }
+]
+
+

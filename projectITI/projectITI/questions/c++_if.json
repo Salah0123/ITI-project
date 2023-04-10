@@ -1,0 +1,83 @@
+[
+  {
+    "title": "The if...else statement can be replaced by which operator?",
+    "answer_1": "Bitwise operator",
+    "answer_2": "Conditional operator",
+    "answer_3": "Multiplicative operator",
+    "answer_4": "Addition operator",
+    "right_answer": "Conditional operator"
+  },
+  {
+    "title": "The switch statement is also called as?",
+    "answer_1": "choosing structure",
+    "answer_2": "selective structure",
+    "answer_3": "certain structure",
+    "answer_4": "bitwise structure",
+    "right_answer": "selective structure"
+  },
+  {
+    "title": "Choose a correct C++ for loop syntax.",
+    "answer_1": "for(initalization; condition; inc/dec){ // statements };",
+    "answer_2": "for(declaration; condition; incrementoperation){ // statements };",
+    "answer_3": "for(declaration; incrementoperation; condition){ // statements };",
+    "answer_4": "for(initalization; condition; incrementoperation){ // statements };",
+    "right_answer": "for(initalization; condition; inc/dec){ // statements };"
+  },
+  {
+    "title": "Choose a correct C++ do while syntax.",
+    "answer_1": "dowhile(condition){ // statements };",
+    "answer_2": "do while(condition){ // statements };",
+    "answer_3": "do{ // statements }while(condition)",
+    "answer_4": "do{ // statements }while(condition);",
+    "right_answer": "do{ // statements }while(condition);"
+  },
+  {
+    "title": "Choose a correct C++ Statement.",
+    "answer_1": "a++ is (a= a+1) POST INCREMENT operator",
+    "answer_2": "a-- is (a = a-1) POST DECREMENT operator. --a is (a = a-1) PRE DECREMENT operator",
+    "answer_3": "++a is (a = a+1) PRE INCREMENT operator",
+    "answer_4": "All of the above.",
+    "right_answer": "All of the above."
+  },
+  {
+    "title": "Which of the following is an entry-controlled loop?",
+    "answer_1": "For loop",
+    "answer_2": "while loop",
+    "answer_3": "do-while loop",
+    "answer_4": "both b & c",
+    "right_answer": "both b & c"
+  },
+  {
+    "title": "Which of the following is an exit-controlled loop?",
+    "answer_1": "While loop",
+    "answer_2": "For loop",
+    "answer_3": "Do while loop",
+    "answer_4": "both b & c",
+    "right_answer": "Do while loop"
+  },
+  {
+    "title": "Which of the following is most suitable for a menu-dricen program?",
+    "answer_1": "For",
+    "answer_2": "while",
+    "answer_3": "do-while",
+    "answer_4": "All of the above",
+    "right_answer": "For"
+  },
+  {
+    "title": "Consider the following loop: for(int i = 0; i<5; i++);",
+    "answer_1": "It will give compilation error.",
+    "answer_2": "5",
+    "answer_3": "6",
+    "answer_4": "Some Garbage value",
+    "right_answer": "5"
+  },
+  {
+    "title": "A switch construct can be used with which of the following types of variable?",
+    "answer_1": "int",
+    "answer_2": "int, char",
+    "answer_3": "int, float, char",
+    "answer_4": "Any basic datatype",
+    "right_answer": "int, char"
+  }
+]
+

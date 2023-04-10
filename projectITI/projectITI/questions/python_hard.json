@@ -1,0 +1,90 @@
+[
+  {
+    "title": "What’s the name of the JavaScript library that Folium builds on top of?",
+    "answer_1": "Leaflet",
+    "answer_2": "Openlayers",
+    "answer_3": "Mapbox",
+    "answer_4": "None",
+    "right_answer": "Leaflet"
+  },
+  {
+    "title": "Which of the following web map tile sources does not come built-in with Folium?",
+    "answer_1": "Google Maps",
+    "answer_2": "CartoDB Dark_matter",
+    "answer_3": "OpenStreetMap",
+    "answer_4": "Stamen Watercolor",
+    "right_answer": "Google Maps"
+  },
+  {
+    "title": "How can you source GeoJSON data for your map project?",
+    "answer_1": "Calling folium.make_geojson() and passing it a country name",
+    "answer_2": "Using a pencil and a ruler on a physical map",
+    "answer_3": "Building your own by using visual web tools",
+    "answer_4": "Fetching ready-made online resources via URLs",
+    "right_answer": "Building your own by using visual web tools"
+  },
+  {
+    "title": "What is a good use case for a choropleth map?",
+    "answer_1": "Terrain elevation across an island",
+    "answer_2": "Road and train networks in a country",
+    "answer_3": "Per capita income across different defined geographical areas",
+    "answer_4": "Hometowns of famous soccer players",
+    "right_answer": "Per capita income across different defined geographical areas"
+  },
+  {
+    "title": "What’s always the first part of the string argument that you pass to key_on in order to bind your data to the GeoJSON features?",
+    "answer_1": "\"features\"",
+    "answer_2": "\"keys\"",
+    "answer_3": "\"geojson\"",
+    "answer_4": "\"feature\"",
+    "right_answer": "\"feature\""
+  },
+  {
+    "title": "How can you inverse a Brewer color palette when you pass it as an argument to your Choropleth map layer?",
+    "answer_1": "Call reversed() and pass it the color palette string",
+    "answer_2": "You can’t reverse a Brewer color palette",
+    "answer_3": "Add \"_r\" to the end of the string",
+    "answer_4": "None",
+    "right_answer": "Add \"_r\" to the end of the string"
+  },
+  {
+    "title": "Python is a ___object-oriented programming language.",
+    "answer_1": "Special purpose",
+    "answer_2": "General purpose",
+    "answer_3": "Medium level programming language",
+    "answer_4": "All of the mentioned above",
+    "right_answer": "General purpose"
+  },
+  {
+    "title": "Amongst the following, who is the developer of Python programming?",
+    "answer_1": "Guido van Rossum",
+    "answer_2": "Denis Ritchie",
+    "answer_3": "Y.C. Khenderakar",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "Guido van Rossum"
+  },
+  {
+    "title": "Amongst which of the following is / are the application areas of Python programming?",
+    "answer_1": "Web Development",
+    "answer_2": "Game Development",
+    "answer_3": "Artificial Intelligence and Machine Learning",
+    "answer_4": "All of the mentioned above",
+    "right_answer": "All of the mentioned above"
+  },
+  {
+    "title": "Amongst which of the following is / are the Numeric Types of Data Types?",
+    "answer_1": "int",
+    "answer_2": "float",
+    "answer_3": "complex",
+    "answer_4": "All of the mentioned above",
+    "right_answer": "All of the mentioned above"
+  }
+]
+
+
+
+
+
+
+
+

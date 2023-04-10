@@ -1,0 +1,106 @@
+:root {
+  --main-color: #df5416;
+  --main-color-alt: #c32f0b;
+  --main-header-text: #ffffff;
+  --main-text-color: #898989;
+  --main-itemSpacing: 30px;
+  --main-item-padding: 30px;
+  --main-transition: 1s;
+  --main-padding: 20px;
+  --main-padding-top: 100px;
+  --main-padding-bottom: 100px;
+  --main-padding-left: 100px;
+  --main-padding-right: 100px;
+  --section-background: #ececec;
+  --main-background-color: #1a1a1a;
+}
+
+svg.ct-trigger {
+  display: none;
+  fill: white;
+  cursor: pointer;
+}
+/* 
+Mobile: 360 x 640.
+Mobile: 375 x 667.
+Mobile: 360 x 720.
+iPhone X: 375 x 812.
+Pixel 2: 411 x 731.
+Tablet: 768 x 1024.
+Laptop: 1366 x 768.
+High-res laptop or desktop: 1920 x 1080. */
+/* @media screen and (max-width: 1210px) {
+    .main-of-head div button {
+        display: none;
+    }
+
+} */
+@media screen and (max-width: 1130px) {
+  .main-of-head {
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .main-content .main-buttons a {
+    display: block;
+  }
+}
+@media screen and (max-width: 970px) {
+  .main-of-head {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+}
+@media screen and (max-width: 1030px) {
+  .main-of-head img {
+    width: 150px;
+  }
+  .main-of-head ul {
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+    background-color: #2c3e50;
+    top: 80px;
+    left: -100%;
+    transition: all var(--main-transition);
+  }
+  .main-of-head ul li {
+    display: block;
+  }
+  .main-of-head ul li a {
+    font-size: 20px;
+  }
+  .main-of-head div button {
+    display: none;
+  }
+  #check {
+    display: block;
+  }
+
+  .container {
+    width: 100%;
+  }
+  .typesOfQuizes .cardOne,
+  .typesOfQuizes a {
+    width: 90%;
+  }
+  .main-title {
+    font-size: 65px;
+  }
+  /* .main-of-head ul.outer-ul{
+  position: relative;
+} */
+  #close {
+    display: block;
+    position: absolute;
+    font-weight: bold;
+    color: var(--main-header-text);
+    right: 20px;
+    top: 10px;
+    font-size: 20px;
+  }
+  #close:hover{
+    color: var(--main-color);
+  }
+}

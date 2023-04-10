@@ -1,0 +1,82 @@
+[
+  {
+    "title": "How many sequences of statements present in C++",
+    "answer_1": "4",
+    "answer_2": "3",
+    "answer_3": "5",
+    "answer_4": "6",
+    "right_answer": "5"
+  },
+  {
+    "title": "Decision Control statements in C++ can be implemented using",
+    "answer_1": "if",
+    "answer_2": "if-else",
+    "answer_3": "Conditional Operator",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "if you have to make decision based on multiple choices, which of the following is best suited?",
+    "answer_1": "if",
+    "answer_2": "if-else",
+    "answer_3": "if-else-if",
+    "answer_4": "All of the above",
+    "right_answer": "if-else-if"
+  },
+  {
+    "title": "In situations where we need to execute body of the loop before testing the condition, we should use_____.",
+    "answer_1": "For loop",
+    "answer_2": "while loop",
+    "answer_3": "do-while loop",
+    "answer_4": "nested for loop",
+    "right_answer": "do-while loop"
+  },
+  {
+    "title": "Loops in C++ Language are implemented using?",
+    "answer_1": "While loop",
+    "answer_2": "For loop",
+    "answer_3": "Do while loop",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "While loop is faster in C++ Language, for, while or do-while?",
+    "answer_1": "For",
+    "answer_2": "while",
+    "answer_3": "do-while",
+    "answer_4": "All work ate same speed",
+    "right_answer": "All work ate same speed"
+  },
+  {
+    "title": "What is the way to suddenly come out of or quit any loop in C++?",
+    "answer_1": "break; statement",
+    "answer_2": "continue; statement",
+    "answer_3": "leave; statement",
+    "answer_4": "quit; statement",
+    "right_answer": "continue; statement"
+  },
+  {
+    "title": "Which of the following can replace a simple if -wlsw construct?",
+    "answer_1": "Ternary operator",
+    "answer_2": "while loop",
+    "answer_3": "do-while loop",
+    "answer_4": "fop loop",
+    "right_answer": "Ternary operator"
+  },
+  {
+    "title": "The if...else statement can be replaced by which operator?",
+    "answer_1": "Bitwise operator",
+    "answer_2": "Conditional operator",
+    "answer_3": "Multiplicative operator",
+    "answer_4": "Addition operator",
+    "right_answer": "Conditional operator"
+  },
+  {
+    "title": "The switch statement is also called as?",
+    "answer_1": "choosing structure",
+    "answer_2": "selective structure",
+    "answer_3": "certain structure",
+    "answer_4": "bitwise structure",
+    "right_answer": "selective structure"
+  }
+]

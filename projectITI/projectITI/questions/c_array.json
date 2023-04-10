@@ -1,0 +1,83 @@
+[
+  {
+    "title": "What will happen if in a C program you assign a value to an array element whose subscript exceeds the size of array?",
+    "answer_1": "The element will be set to 0.",
+    "answer_2": "The compiler would report an error.",
+    "answer_3": "The program may crash if some important data gets overwritten.",
+    "answer_4": "The array size would appropriately grow.",
+    "right_answer": "The program may crash if some important data gets overwritten."
+  },
+  {
+    "title": "What does the following declaration mean?",
+    "answer_1": "int (*ptr)[10];",
+    "answer_2": "ptr is a pointer to an array of 10 integers",
+    "answer_3": "ptr is an array of 10 integers",
+    "answer_4": "ptr is an pointer to array",
+    "right_answer": "ptr is a pointer to an array of 10 integers"
+  },
+  {
+    "title": "In C, if you pass an array as an argument to a function, what actually gets passed?",
+    "answer_1": "Value of elements in array",
+    "answer_2": "First element of the array",
+    "answer_3": "Base address of the array",
+    "answer_4": "Address of the last element of array",
+    "right_answer": "Base address of the array"
+  },
+  {
+    "title": "what is right way to initialize array",
+    "answer_1": "int num[6] = { 2, 4, 12, 5, 45, 5 };",
+    "answer_2": "int n{} = { 2, 4, 12, 5, 45, 5 };",
+    "answer_3": "int n{6} = { 2, 4, 12 };",
+    "answer_4": "int n(6) = { 2, 4, 12, 5, 45, 5 };",
+    "right_answer": "int num[6] = { 2, 4, 12, 5, 45, 5 };"
+  },
+  {
+    "title": "An array element are always stored in ـــــــ memory location",
+    "answer_1": "Sequential",
+    "answer_2": "Random",
+    "answer_3": "Sequential and Random",
+    "answer_4": "None of the above",
+    "right_answer": "Sequential"
+  },
+  {
+    "title": "Size of the array need not be specified, when",
+    "answer_1": "Initialization is a part of definition",
+    "answer_2": "It is a declaratrion",
+    "answer_3": "It is a formal parameter",
+    "answer_4": "All of these",
+    "right_answer": "All of these"
+  },
+  {
+    "title": "What does the following declaration mean?\n int(*ptr)[10];",
+    "answer_1": "ptr is array of pointers to 10 integers",
+    "answer_2": "ptr is a pointer to an array of 10 integers",
+    "answer_3": "ptr is an array of 10 integers",
+    "answer_4": "ptr is an pointer to array",
+    "right_answer": "ptr is a pointer to an array of 10 integers"
+  },
+  {
+    "title": "Array passed as an argument to a function is interpreted as",
+    "answer_1": "Address of the array.",
+    "answer_2": "Values of the first elements of the array.",
+    "answer_3": "Address of the first element of the array.",
+    "answer_4": "Number of element of the array.",
+    "right_answer": "Address of the first element of the array."
+  },
+  {
+    "title": "If the two strings are identical, then ",
+    "answer_1": "1",
+    "answer_2": "0",
+    "answer_3": "-1",
+    "answer_4": "true",
+    "right_answer": "0"
+  },
+  {
+    "title": "The library function used to find the last occurrence of a character in a string is",
+    "answer_1": "laststr()",
+    "answer_2": "strstr()",
+    "answer_3": "strnstr()",
+    "answer_4": "strrchr()",
+    "right_answer": "strrchr()"
+  }
+]
+

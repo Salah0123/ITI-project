@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Choose a right C Statement.",
+    "answer_1": "Loops or Repetition block executes a group of statements repeatedly.",
+    "answer_2": "Loop is usually executed as long as a condition is met.",
+    "answer_3": "All the above.Loops usually take advantage of Loop Counter",
+    "answer_4": "",
+    "right_answer": "All the above."
+  },
+  {
+    "title": "Loops in C Language are implemented using.?",
+    "answer_1": "While Block",
+    "answer_2": "For Block",
+    "answer_3": "Do While Block",
+    "answer_4": "All the above",
+    "right_answer": "All the above"
+  },
+  {
+    "title": "Which loop is faster in C Language, for, while or Do While.?",
+    "answer_1": "for",
+    "answer_2": "while",
+    "answer_3": "do while",
+    "answer_4": "All work at same speed",
+    "right_answer": "All work at same speed"
+  },
+  {
+    "title": "What is the way to suddenly come out of or Quit any Loop in C Language.?",
+    "answer_1": "continue; statement",
+    "answer_2": "break; statement",
+    "answer_3": "leave; statement",
+    "answer_4": "quit; statement",
+    "right_answer": "break; statement"
+  },
+  {
+    "title": "Which loop is faster in C Language, for, while or Do While?",
+    "answer_1": "for",
+    "answer_2": "while",
+    "answer_3": "do while",
+    "answer_4": "All work at same speed",
+    "right_answer": "All work at same speed"
+  },
+  {
+    "title": "Which of the following is binary operator?",
+    "answer_1": "&&",
+    "answer_2": "||",
+    "answer_3": "both i & ii",
+    "answer_4": "!",
+    "right_answer": "!"
+  },
+  {
+    "title": "The conditional operator are also known as",
+    "answer_1": "Relational operator",
+    "answer_2": "Binary operator",
+    "answer_3": "Ternary operator",
+    "answer_4": "Arithematic operator",
+    "right_answer": "Ternary operator"
+  },
+  {
+    "title": "If you have to make decision based on multiple choices, which of the following is best suited?",
+    "answer_1": "if",
+    "answer_2": "if-else",
+    "answer_3": "if-else-if",
+    "answer_4": "All of the above",
+    "right_answer": "if-else-if"
+  },
+  {
+    "title": "The continue statment cannot be used with ________",
+    "answer_1": "for",
+    "answer_2": "while",
+    "answer_3": "do while",
+    "answer_4": "switch",
+    "right_answer": "switch"
+  },
+  {
+    "title": "Which keyword can be used for coming out of recursion?",
+    "answer_1": "return",
+    "answer_2": "break",
+    "answer_3": "exit",
+    "answer_4": "both A and B",
+    "right_answer": "return"
+  }
+]
+
+

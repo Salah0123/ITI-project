@@ -1,0 +1,90 @@
+
+
+
+
+
+[
+  {
+    "title": "Where does the execution of the program starts?",
+    "answer_1": "user-defined function",
+    "answer_2": "main function",
+    "answer_3": "void function",
+    "answer_4": "else function",
+    "right_answer": "main function"
+  },
+  {
+    "title": "What are mandatory parts in the function declaration?",
+    "answer_1": "return type, function name",
+    "answer_2": "return type, function name, parameters",
+    "answer_3": "parameters, function name",
+    "answer_4": "parameters, variables",
+    "right_answer": "return type, function name"
+  },
+  {
+    "title": " which of the following is used to terminate the function declaration?",
+    "answer_1": ":",
+    "answer_2": ")",
+    "answer_3": ";",
+    "answer_4": "]",
+    "right_answer": ";"
+  },
+  {
+    "title": "How many can max number of arguments present in function in the c99 compiler?",
+    "answer_1": "99",
+    "answer_2": "90",
+    "answer_3": "102",
+    "answer_4": "127",
+    "right_answer": "127"
+  },
+  {
+    "title": "Which is more effective while calling the functions?",
+    "answer_1": "call by value",
+    "answer_2": "call by reference",
+    "answer_3": "call by pointer",
+    "answer_4": "call by object",
+    "right_answer": "call by reference"
+  },
+  {
+    "title": "What is the scope of the variable declared in the user defined function?",
+    "answer_1": "whole program",
+    "answer_2": "only inside the {} block",
+    "answer_3": "the main function",
+    "answer_4": "header section",
+    "right_answer": "only inside the {} block"
+  },
+  {
+    "title": "How many minimum number of functions should be present in a C++ program for its execution?",
+    "answer_1": "0",
+    "answer_2": "1",
+    "answer_3": "2",
+    "answer_4": "3",
+    "right_answer": "1"
+  },
+  {
+    "title": "Which of the following is the default return value of functions in C++?",
+    "answer_1": "int",
+    "answer_2": "char",
+    "answer_3": "float",
+    "answer_4": "void",
+    "right_answer": "int"
+  },
+  {
+    "title": "What is an inline function?",
+    "answer_1": "A function that is expanded at each call during execution",
+    "answer_2": "A function that is called during compile time",
+    "answer_3": "A function that is not checked for syntax errors",
+    "answer_4": "A function that is not checked for semantic analysis",
+    "right_answer": "A function that is expanded at each call during execution"
+  },
+  {
+    "title": "What happens to a function defined inside a class without any complex operations (like looping, a large number of lines, etc)?",
+    "answer_1": "It becomes a virtual function of the class",
+    "answer_2": "It becomes a default calling function of the class",
+    "answer_3": "It becomes an inline function of the class",
+    "answer_4": "The program gives an error",
+    "right_answer": "It becomes an inline function of the class"
+  }
+]
+
+
+

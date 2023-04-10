@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Functions are invoked as functions or as methods with an __________.",
+    "answer_1": "invocation statement",
+    "answer_2": "invocation expression",
+    "answer_3": "invocation function",
+    "answer_4": "invocation method",
+    "right_answer": "invocation expression"
+  },
+  {
+    "title": "........ functions need not allow invocations with zero arguments.",
+    "answer_1": "zero",
+    "answer_2": "strict",
+    "answer_3": "empty",
+    "answer_4": "varargs",
+    "right_answer": "varargs"
+  },
+  {
+    "title": "When you invoke the........ method on a function f and pass an object o, the method returns a new function.",
+    "answer_1": "apply()",
+    "answer_2": "call()",
+    "answer_3": "bind()",
+    "answer_4": "string()",
+    "right_answer": "bind()"
+  },
+  {
+    "title": "_________ is a group of reusable code which can be called anywhere in your program.",
+    "answer_1": "exception",
+    "answer_2": "function",
+    "answer_3": "loop",
+    "answer_4": "switch",
+    "right_answer": "function"
+  },
+  {
+    "title": "The most common way to define a function in JavaScript is by using the ____________ keyword.",
+    "answer_1": "fun",
+    "answer_2": "var",
+    "answer_3": "function",
+    "answer_4": "define",
+    "right_answer": "function"
+  },
+  {
+    "title": "Which statement required if you want to return a value from a function?",
+    "answer_1": "continue",
+    "answer_2": "break",
+    "answer_3": "loop",
+    "answer_4": "return",
+    "right_answer": "return"
+  },
+  {
+    "title": "Does JavaScript allows us to write our own functions as well?",
+    "answer_1": "Yes",
+    "answer_2": "No",
+    "answer_3": "Can be yes or no",
+    "answer_4": "Can not say",
+    "right_answer": "Yes"
+  },
+  {
+    "title": "The Function() constructor expects ______ number of string arguments",
+    "answer_1": "0",
+    "answer_2": "1",
+    "answer_3": "2",
+    "answer_4": "any",
+    "right_answer": "any"
+  },
+  {
+    "title": "What is the code to be used to trim whitespaces?",
+    "answer_1": "let trimmed = (l.trim() for (l in lines));",
+    "answer_2": "let trimmed = (trim(l));",
+    "answer_3": "let trimmed = l.trim();",
+    "answer_4": "let trimmed = for(l in lines));",
+    "right_answer": "let trimmed = (l.trim() for (l in lines));"
+  },
+  {
+    "title": "What is the code required to delete all weight tags?",
+    "answer_1": "delete weight(pt).all;",
+    "answer_2": "delete pt.element[all];",
+    "answer_3": "delete pt;",
+    "answer_4": "delete pt..weight;",
+    "right_answer": "delete pt..weight;"
+  }
+]
+
+
+
+

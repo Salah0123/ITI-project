@@ -1,0 +1,86 @@
+
+
+
+
+[
+  {
+    "title": "Who is the father of C language?",
+    "answer_1": "Steve Jobs",
+    "answer_2": "James Gosling",
+    "answer_3": "Dennis Ritchie",
+    "answer_4": "Rasmus Lerdorf",
+    "right_answer": "Dennis Ritchie"
+  },
+  {
+    "title": "Which of the following is not a valid C variable name?",
+    "answer_1": "int number;",
+    "answer_2": "float rate;",
+    "answer_3": "int variable_count;",
+    "answer_4": "int $main;",
+    "right_answer": "int $main;"
+  },
+  {
+    "title": "All keywords in C are in ____________",
+    "answer_1": "LowerCase letters",
+    "answer_2": "UpperCase letters",
+    "answer_3": "CamelCase letters",
+    "answer_4": "None of the mentioned",
+    "right_answer": "LowerCase letters"
+  },
+  {
+    "title": "Which of the following is true for variable names in C?",
+    "answer_1": "They can contain alphanumeric characters as well as special characters",
+    "answer_2": "It is not an error to declare a variable to be one of the keywords(like goto, static)",
+    "answer_3": "Variable names cannot start with a digit",
+    "answer_4": "Variable can be of any length",
+    "right_answer": "Variable names cannot start with a digit"
+  },
+  {
+    "title": "Which is valid C expression?",
+    "answer_1": "int my_num = 100,000;",
+    "answer_2": "int my_num = 100000;",
+    "answer_3": "int my num = 1000;",
+    "answer_4": "int $my_num = 10000;",
+    "right_answer": "int my_num = 100000;"
+  },
+  {
+    "title": "Which of the following cannot be a variable name in C?",
+    "answer_1": "volatile",
+    "answer_2": "true",
+    "answer_3": "friend",
+    "answer_4": "export",
+    "right_answer": "volatile"
+  },
+  {
+    "title": "What is short int in C programming?",
+    "answer_1": "The basic data type of C",
+    "answer_2": "Qualifier",
+    "answer_3": "Short is the qualifier and int is the basic data type",
+    "answer_4": "All of the mentioned",
+    "right_answer": "Short is the qualifier and int is the basic data type"
+  },
+  {
+    "title": "Which of the following declaration is not supported by C language?",
+    "answer_1": "String str;",
+    "answer_2": "char *str;",
+    "answer_3": "float str = 3e2;",
+    "answer_4": "Both “String str;” and “float str = 3e2;”",
+    "right_answer": "String str;"
+  },
+  {
+    "title": "Which keyword is used to prevent any changes in the variable within a C program?",
+    "answer_1": "immutable",
+    "answer_2": "mutable",
+    "answer_3": "const",
+    "answer_4": "volatile",
+    "right_answer": "const"
+  },
+  {
+    "title": "What is the result of logical or relational expression in C?",
+    "answer_1": "True or False",
+    "answer_2": "0 or 1",
+    "answer_3": "0 if an expression is false and any positive number if an expression is true",
+    "answer_4": "None of the mentioned",
+    "right_answer": "0 or 1"
+  }
+]

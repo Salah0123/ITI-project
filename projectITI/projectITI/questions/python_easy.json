@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Which character is used in Python to make a single line comment?",
+    "answer_1": "#",
+    "answer_2": "//",
+    "answer_3": "/",
+    "answer_4": "!",
+    "right_answer": "#"
+  },
+  {
+    "title": "Which one of the following is not a keyword in Python language?",
+    "answer_1": "assert",
+    "answer_2": "pass",
+    "answer_3": "eval",
+    "answer_4": "nonlocal",
+    "right_answer": "eval"
+  },
+  {
+    "title": "Which module in the python standard library parses options received from the command line?",
+    "answer_1": "getopt",
+    "answer_2": "getarg",
+    "answer_3": "main",
+    "answer_4": "os",
+    "right_answer": "getopt"
+  },
+  {
+    "title": "Why does the name of local variables start with an underscore discouraged?",
+    "answer_1": "It indicates a private variable of a class",
+    "answer_2": "It confuses the interpreter",
+    "answer_3": "To identify the variable",
+    "answer_4": "None",
+    "right_answer": "It indicates a private variable of a class"
+  },
+  {
+    "title": "What is the maximum possible length of an identifier?",
+    "answer_1": "32",
+    "answer_2": "16",
+    "answer_3": "64",
+    "answer_4": "None",
+    "right_answer": "None"
+  },
+  {
+    "title": "What are the two main types of functions in Python?",
+    "answer_1": "Custom function",
+    "answer_2": "System function",
+    "answer_3": "Built-in function & User defined function",
+    "answer_4": "User function",
+    "right_answer": "Built-in function & User defined function"
+  },
+  {
+    "title": "Which of the following statements is correct regarding the object-oriented programming concept in Python?",
+    "answer_1": "Classes are real-world entities while objects are not real",
+    "answer_2": "Objects are real-world entities while classes are not real",
+    "answer_3": "Both objects and classes are real-world entities",
+    "answer_4": "None",
+    "right_answer": "Objects are real-world entities while classes are not real"
+  },
+  {
+    "title": "The process of pickling in Python includes ____________",
+    "answer_1": "conversion of a data table into a list",
+    "answer_2": "conversion of a Python object hierarchy into byte stream",
+    "answer_3": "conversion of a byte stream into Python object hierarchy",
+    "answer_4": "conversion of a list into a data table",
+    "right_answer": "conversion of a Python object hierarchy into byte stream"
+  },
+  {
+    "title": "What happens when ‘2’ == 2 is executed?",
+    "answer_1": "False",
+    "answer_2": "True",
+    "answer_3": "Value Error occurs",
+    "answer_4": "Type Error occurs",
+    "right_answer": "False"
+  },
+  {
+    "title": "Who developed the Python language?",
+    "answer_1": "Guido van Rossum",
+    "answer_2": "Zim Den",
+    "answer_3": "Niene Stom",
+    "answer_4": "Wick van Rossum",
+    "right_answer": "Guido van Rossum"
+  }
+]
+
+
+
+
+

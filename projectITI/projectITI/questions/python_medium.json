@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Which of the following option is not a core data type in the python language?",
+    "answer_1": "Class",
+    "answer_2": "Dictionary",
+    "answer_3": "Lists",
+    "answer_4": "None",
+    "right_answer": "Class"
+  },
+  {
+    "title": "Which of the following is not a keyword in Python language?",
+    "answer_1": "try",
+    "answer_2": "raise",
+    "answer_3": "val",
+    "answer_4": "with",
+    "right_answer": "val"
+  },
+  {
+    "title": "Which one of the following has the same precedence level?",
+    "answer_1": "Subtraction and Division",
+    "answer_2": "Division and Multiplication",
+    "answer_3": "Division, Power, Multiplication, Addition and Subtraction",
+    "answer_4": "power and Division",
+    "right_answer": "Division and Multiplication"
+  },
+  {
+    "title": "Which of the following statements is correct for variable names in Python language?",
+    "answer_1": "The variable name length is a maximum of 2",
+    "answer_2": "Unlimited length",
+    "answer_3": "All variable names must begin with an underscore",
+    "answer_4": "None",
+    "right_answer": "Unlimited length"
+  },
+  {
+    "title": "In which year was the Python language developed?",
+    "answer_1": "1981",
+    "answer_2": "1995",
+    "answer_3": "1972",
+    "answer_4": "1989",
+    "right_answer": "1989"
+  },
+  {
+    "title": "Which one of the following has the highest precedence in the expression?",
+    "answer_1": "Power",
+    "answer_2": "Subtraction",
+    "answer_3": "Division",
+    "answer_4": "Parentheses",
+    "right_answer": "Parentheses"
+  },
+  {
+    "title": "The output to execute string.ascii_letters can also be obtained from?",
+    "answer_1": "lowercase_string.upercase",
+    "answer_2": "string.ascii_lowercase+string.ascii_upercase",
+    "answer_3": "ascii_lowercase_string.digits",
+    "answer_4": "character",
+    "right_answer": "string.ascii_lowercase+string.ascii_upercase"
+  },
+  {
+    "title": "Which of the following functions is a built-in function in python language?",
+    "answer_1": "main()",
+    "answer_2": "val()",
+    "answer_3": "print()",
+    "answer_4": "None",
+    "right_answer": "print()"
+  },
+  {
+    "title": "Which of the following precedence order is correct in Python?",
+    "answer_1": "Division, Multiplication, Addition, Subtraction, Parentheses, Exponential",
+    "answer_2": "Parentheses, Exponential, Multiplication, Division, Addition, Subtraction",
+    "answer_3": "Exponential, Parentheses, Multiplication, Division, Addition, Subtraction",
+    "answer_4": "Multiplication, Division, Addition, Subtraction, Parentheses, Exponential",
+    "right_answer": "Parentheses, Exponential, Multiplication, Division, Addition, Subtraction"
+  },
+  {
+    "title": "In which language is Python written?",
+    "answer_1": "PHP",
+    "answer_2": "English",
+    "answer_3": "C Language",
+    "answer_4": "None",
+    "right_answer": "C Language"
+  }
+]

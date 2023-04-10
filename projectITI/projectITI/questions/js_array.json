@@ -1,0 +1,86 @@
+
+
+
+
+[
+  {
+    "title": "An _______ is a special variable, which can hold more than one value",
+    "answer_1": "string",
+    "answer_2": "integer",
+    "answer_3": "character",
+    "answer_4": "array",
+    "right_answer": "array"
+  },
+  {
+    "title": "It is a common practice to declare arrays with the _________ keyword",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "none of the above",
+    "right_answer": "const"
+  },
+  {
+    "title": "Spaces and line breaks are not important.",
+    "answer_1": "TRUE",
+    "answer_2": "FALSE",
+    "answer_3": "Can be true or false",
+    "answer_4": "Can not say",
+    "right_answer": "TRUE"
+  },
+  {
+    "title": "Array indexes start with ______",
+    "answer_1": "-1",
+    "answer_2": "0",
+    "answer_3": "1",
+    "answer_4": "Can not say",
+    "right_answer": "0"
+  },
+  {
+    "title": "The ________ operator in JavaScript returns \"object\" for arrays.",
+    "answer_1": "and",
+    "answer_2": "or",
+    "answer_3": "not",
+    "answer_4": "typeof",
+    "right_answer": "typeof"
+  },
+  {
+    "title": "What is true about Arrays?",
+    "answer_1": "JavaScript does not support associative arrays",
+    "answer_2": "You should use objects when you want the element names to be strings",
+    "answer_3": "You should use arrays when you want the element names to be numbers",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "The easiest way to add a new element to an array is using the _________ method",
+    "answer_1": "add()",
+    "answer_2": "insert()",
+    "answer_3": "push()",
+    "answer_4": "set()",
+    "right_answer": "push()"
+  },
+  {
+    "title": "The _______ method also joins all array elements into a string.",
+    "answer_1": "toString()",
+    "answer_2": "join()",
+    "answer_3": "pop()",
+    "answer_4": "shift()",
+    "right_answer": "join()"
+  },
+  {
+    "title": "Array elements can be deleted using the JavaScript operator?",
+    "answer_1": "pop",
+    "answer_2": "shift",
+    "answer_3": "delete",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "arrays always use numbered indexes.",
+    "answer_1": "Yes",
+    "answer_2": "No",
+    "answer_3": "Can be yes or no",
+    "answer_4": "Can not say",
+    "right_answer": "Yes"
+  }
+]

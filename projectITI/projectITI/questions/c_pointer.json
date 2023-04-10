@@ -1,0 +1,83 @@
+[
+  {
+    "title": "A pointer is a",
+    "answer_1": "variable that stores address of an instruction",
+    "answer_2": "variable that stores address of other variable",
+    "answer_3": "keyword used to create variables",
+    "answer_4": "None of these",
+    "right_answer": "variable that stores address of other variable"
+  },
+  {
+    "title": "The reason for using pointers in a Cprogram is",
+    "answer_1": "Pointers allow different functions to share and modify their local variables",
+    "answer_2": "To pass large structures so that complete copy of the structure can be avoided",
+    "answer_3": "Pointers enable complex â€œlinked\" data structures like linked lists and binary trees",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "How can you write a[i][j][k][l] in equivalent pointer expression?",
+    "answer_1": "(((***(a+i)+j)+k)+l)",
+    "answer_2": "((**(*(a+i)+j)+k)+l)",
+    "answer_3": "(*(*(*(a+i)+j)+k)+l)",
+    "answer_4": "*(*(*(*(a+i)+j)+k)+l)",
+    "right_answer": "*(*(*(*(a+i)+j)+k)+l)"
+  },
+  {
+    "title": "The address operator &, cannot act on",
+    "answer_1": "R-values",
+    "answer_2": "Arithmetic expressions",
+    "answer_3": "Both of the above",
+    "answer_4": "Local variables",
+    "right_answer": "Both of the above"
+  },
+  {
+    "title": "In order to fetch the address of the variable we write preceding _________ sign before variable name.",
+    "answer_1": "Percent(%)",
+    "answer_2": "Comma(,)",
+    "answer_3": "Ampersand(&)",
+    "answer_4": "Asterisk(*)",
+    "right_answer": "Ampersand(&)"
+  },
+  {
+    "title": "Address stored in the pointer variable is of type _______.",
+    "answer_1": "Integer",
+    "answer_2": "Float",
+    "answer_3": "Array",
+    "answer_4": "Character",
+    "right_answer": "Integer"
+  },
+  {
+    "title": "Comment on this const int *ptr;",
+    "answer_1": "You cannot change the value pointed by ptr",
+    "answer_2": "You cannot change the pointer ptr itself",
+    "answer_3": "Both (a) and (b)",
+    "answer_4": "You can change the pointer as well as the value pointed by it",
+    "right_answer": "You cannot change the value pointed by ptr"
+  },
+  {
+    "title": "The operator > and < are meaningful when used with pointers, if",
+    "answer_1": "The pointers point to data of similar type",
+    "answer_2": "The pointers point to structure of similar data type",
+    "answer_3": "The pointers point to elements of the same array",
+    "answer_4": "None of these",
+    "right_answer": "The pointers point to elements of the same array"
+  },
+  {
+    "title": "Which of the following is the correct ways of declaring a float pointer:",
+    "answer_1": "float ptr;",
+    "answer_2": "float *ptr;",
+    "answer_3": "*float ptr;",
+    "answer_4": "None of the above",
+    "right_answer": "float *ptr;"
+  },
+  {
+    "title": "Prior to using a pointer variable it should be",
+    "answer_1": "initialized",
+    "answer_2": "Declared",
+    "answer_3": "Both A and B",
+    "answer_4": "None of the above",
+    "right_answer": "initialized"
+  }
+]
+

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .one h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        ol {
+            display: flex;
+
+        }
+
+        video {
+            margin-left: 10px;
+        }
+    </style>
+    <link rel="stylesheet" href="home.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <h1 id="one"></h1>
+    <ol>
+        <li>
+            <video id="myVideo" width="200" controls onclick="myFunction()">
+                <source src="courses/html5/1.mp4" type="video/mp4">
+                <source src="courses/html5/2.mp4" type="video/mp4">
+                <source src="courses/html5/3.mp4" type="video/mp4">
+                <source src="mov_bbb.ogg" type="video/ogg">
+                Your browser does not support HTML5 video.
+            </video>
+        </li>
+        <li>
+            <video id="myVideo" width="200" controls onclick="myFunction()">
+                <source src="courses/html5/2.mp4" type="video/mp4">
+                <source src="mov_bbb.ogg" type="video/ogg">
+                Your browser does not support HTML5 video.
+            </video>
+        </li>
+        <li>
+            <video id="myVideo" width="200" controls onclick="myFunction()">
+                <source src="courses/html5/3.mp4" type="video/mp4">
+                <source src="mov_bbb.ogg" type="video/ogg">
+                Your browser does not support HTML5 video.
+            </video>
+        </li>
+    </ol>
+    <script>
+        document.title = "HTML5 Course";
+        document.getElementById('one').innerHTML = "Course HTML5 !";  // OR 
+        document.getElementById('one').style.color = '#fff';
+        document.getElementById('one').style.textAlign = 'center';
+        document.getElementById('one').style.marginBottom = '3%';
+        // var myh1 = document.createElement('h1'),
+        //     myText = document.createTextNode('Course HTML5 !');
+        // myh1.appendChild(myText);
+        // document.body.appendChild(myh1);
+
+        function myFunction() {
+            document.getElementById("myVideo").width = "500";
+        }
+    </script>
+</body>
+
+</html>

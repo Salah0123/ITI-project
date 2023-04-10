@@ -1,0 +1,82 @@
+[
+  {
+    "title": "JavaScript strings are for ________ text.",
+    "answer_1": "storing",
+    "answer_2": "manipulating",
+    "answer_3": "both a and b",
+    "answer_4": "none of the above",
+    "right_answer": "both a and b"
+  },
+  {
+    "title": "To find the length of a string, use the built-in _______ property.",
+    "answer_1": "size",
+    "answer_2": "length",
+    "answer_3": "area",
+    "answer_4": "strlen",
+    "right_answer": "length"
+  },
+  {
+    "title": "The ________ escape character turns special characters into string characters",
+    "answer_1": "\\",
+    "answer_2": "/",
+    "answer_3": "|",
+    "answer_4": "#",
+    "right_answer": "\\"
+  },
+  {
+    "title": "code is used for?",
+    "answer_1": "Backspace",
+    "answer_2": "Form Feed",
+    "answer_3": "New Line",
+    "answer_4": "Carriage Return",
+    "right_answer": "Carriage Return"
+  },
+  {
+    "title": "The _________ keyword complicates the code and slows down execution speed",
+    "answer_1": "this",
+    "answer_2": "let",
+    "answer_3": "new",
+    "answer_4": "none of the above",
+    "right_answer": "new"
+  },
+  {
+    "title": "Comparing two JavaScript objects always returns?",
+    "answer_1": "TRUE",
+    "answer_2": "FALSE",
+    "answer_3": "Can be true or false",
+    "answer_4": "Can not say",
+    "right_answer": "FALSE"
+  },
+  {
+    "title": "_______ extracts a part of a string and returns the extracted part in a new string.",
+    "answer_1": "substring()",
+    "answer_2": "substr()",
+    "answer_3": "strlen()",
+    "answer_4": "slice()",
+    "right_answer": "slice()"
+  },
+  {
+    "title": "JavaScript counts positions from?",
+    "answer_1": "0",
+    "answer_2": "1",
+    "answer_3": "-1",
+    "answer_4": "Can not say",
+    "right_answer": "0"
+  },
+  {
+    "title": "_________ cannot accept negative indexes.",
+    "answer_1": "slice()",
+    "answer_2": "substring()",
+    "answer_3": "both a and b",
+    "answer_4": "none of the above",
+    "right_answer": "substring()"
+  },
+  {
+    "title": "Some browsers do not allow spaces behind the  character.",
+    "answer_1": "Yes",
+    "answer_2": "No",
+    "answer_3": "Can be yes or no",
+    "answer_4": "Can not say",
+    "right_answer": "Yes"
+  }
+]

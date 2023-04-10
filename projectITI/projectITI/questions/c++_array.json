@@ -1,0 +1,84 @@
+[
+  {
+    "title": "Which of the following correctly declares an array?",
+    "answer_1": "int array[10];",
+    "answer_2": "int array;",
+    "answer_3": "array{10};",
+    "answer_4": "array array[10];",
+    "right_answer": "int array[10];"
+  },
+  {
+    "title": "What is the index number of the last element of an array with 9 elements?",
+    "answer_1": "9",
+    "answer_2": "8",
+    "answer_3": "0",
+    "answer_4": "Programmer-defined",
+    "right_answer": "8"
+  },
+  {
+    "title": "What is the correct definition of an array?",
+    "answer_1": "An array is a series of elements of the same type in contiguous memory locations",
+    "answer_2": "An array is a series of element",
+    "answer_3": "An array is a series of elements of the same type placed in non-contiguous memory locations",
+    "answer_4": "An array is an element of the different type",
+    "right_answer": "An array is a series of elements of the same type in contiguous memory locations"
+  },
+  {
+    "title": "Which of the following gives the memory address of the first element in array?",
+    "answer_1": "array[0];",
+    "answer_2": "array[1];",
+    "answer_3": "array(2);",
+    "answer_4": "array;",
+    "right_answer": "array;"
+  },
+  {
+    "title": "Which of the following accesses the seventh element stored in array?",
+    "answer_1": "array[6];",
+    "answer_2": "array[7];",
+    "answer_3": "array(7);",
+    "answer_4": "array;",
+    "right_answer": "array[6];"
+  },
+  {
+    "title": "Which header file is used to manipulate the string?",
+    "answer_1": "iostream",
+    "answer_2": "iomanip",
+    "answer_3": "string",
+    "answer_4": "container",
+    "right_answer": "string"
+  },
+  {
+    "title": "How many maximum number of parameters does a string constructor can take?",
+    "answer_1": "1",
+    "answer_2": "2",
+    "answer_3": "3",
+    "answer_4": "4",
+    "right_answer": "3"
+  },
+  {
+    "title": "Which constant member functions does not modify the string?",
+    "answer_1": "bool empty()",
+    "answer_2": "assign",
+    "answer_3": "append",
+    "answer_4": "delete",
+    "right_answer": "bool empty()"
+  },
+  {
+    "title": "What is the difference between unsigned int length() and unsigned int size()?",
+    "answer_1": "Returns a different value",
+    "answer_2": "They are same",
+    "answer_3": "Returns a different value but they are same",
+    "answer_4": "Returns a length",
+    "right_answer": "They are same"
+  },
+  {
+    "title": "Which of the following is correct about remove_extent() function?",
+    "answer_1": "Removes the given dimension from an array",
+    "answer_2": "Removes the first dimension from the right of the array",
+    "answer_3": "Removes the first dimension from the left of the array",
+    "answer_4": "Removes the last dimension from the left of the array",
+    "right_answer": "Removes the first dimension from the left of the array"
+  }
+]
+
+

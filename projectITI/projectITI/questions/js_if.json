@@ -1,0 +1,84 @@
+[
+  {
+    "title": "A conditional expression is also called a",
+    "answer_1": "Alternative to if-else",
+    "answer_2": "Immediate if",
+    "answer_3": "if-then-else statement",
+    "answer_4": "Switch statement",
+    "right_answer": "Switch statement"
+  },
+  {
+    "title": "A statement block is a",
+    "answer_1": "conditional block",
+    "answer_2": "block that contains a single statement",
+    "answer_3": "both conditional block and a single statement",
+    "answer_4": "block that combines multiple statements into a single compound statement",
+    "right_answer": "block that combines multiple statements into a single compound statement"
+  },
+  {
+    "title": "JavaScript Statements are executed by",
+    "answer_1": "JVM",
+    "answer_2": "Browser",
+    "answer_3": "Compiler",
+    "answer_4": "Server",
+    "right_answer": "Browser"
+  },
+  {
+    "title": "Multiple JS statements are written inside pair of ________ to form a statement block.",
+    "answer_1": "Pair of Round Brackets",
+    "answer_2": "Pair of Curly braces",
+    "answer_3": "None of these",
+    "answer_4": "Pair of Square Brackets",
+    "right_answer": "Pair of Curly braces"
+  },
+  {
+    "title": "JavaScript _________ when there is an indefinite or an infinite value during an arithmetic computation.",
+    "answer_1": "Prints an overflow error",
+    "answer_2": "Prints an exception error",
+    "answer_3": "Displays “Infinity”",
+    "answer_4": "Prints the value as such",
+    "right_answer": "Displays “Infinity”"
+  },
+  {
+    "title": "The statement a===b refers to _________",
+    "answer_1": "Both a and b are equal in value and type",
+    "answer_2": "Both a and b are equal in value, type and reference address",
+    "answer_3": "Both a and b are equal in value",
+    "answer_4": "There is no such statement",
+    "right_answer": "Both a and b are equal in value and type"
+  },
+  {
+    "title": "The escape sequence ‘\\f’ stands for _________",
+    "answer_1": "\\f is not present in JavaScript",
+    "answer_2": "Floating numbers",
+    "answer_3": "Representation of functions that returns a value",
+    "answer_4": "Form feed",
+    "right_answer": "Form feed"
+  },
+  {
+    "title": "Which of the following Attribute is used to include External JS code inside your HTML Document?",
+    "answer_1": "ext",
+    "answer_2": "src",
+    "answer_3": "link",
+    "answer_4": "script",
+    "right_answer": "src"
+  },
+  {
+    "title": "The type of a variable that is volatile is _______________",
+    "answer_1": "Immutable variable",
+    "answer_2": "Mutable variable",
+    "answer_3": "Dynamic variable",
+    "answer_4": "Volatile variable",
+    "right_answer": "Mutable variable"
+  },
+  {
+    "title": "The snippet that has to be used to check if “a” is not equal to “null” is _________",
+    "answer_1": "if(a!=null)",
+    "answer_2": "if(a!null)",
+    "answer_3": "if (!a)",
+    "answer_4": "if(a!==null)",
+    "right_answer": "if(a!==null)"
+  }
+]
+
+

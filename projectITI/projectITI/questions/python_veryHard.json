@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+[
+  {
+    "title": "list, tuple, and range are the ___ of Data Types.",
+    "answer_1": "Sequence Types",
+    "answer_2": "Binary Types",
+    "answer_3": "Boolean Types",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "Sequence Types"
+  },
+  {
+    "title": "bytes, bytearray, memoryview are type of the ___ data type.",
+    "answer_1": "Mapping Type",
+    "answer_2": "Boolean Type",
+    "answer_3": "Binary Types",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "Binary Types"
+  },
+  {
+    "title": "Amongst which of the following is / are the logical operators in Python?",
+    "answer_1": "and",
+    "answer_2": "or",
+    "answer_3": "not",
+    "answer_4": "All of the mentioned above",
+    "right_answer": "All of the mentioned above"
+  },
+  {
+    "title": "What is the name of the operator ** in Python?",
+    "answer_1": "Exponentiation",
+    "answer_2": "Modulus",
+    "answer_3": "Floor division",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "Exponentiation"
+  },
+  {
+    "title": "The % operator returns the ___.",
+    "answer_1": "Quotient",
+    "answer_2": "Divisor",
+    "answer_3": "Remainder",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "Remainder"
+  },
+  {
+    "title": "Amongst which of the following is / are the method of list?",
+    "answer_1": "append()",
+    "answer_2": "extend()",
+    "answer_3": "insert()",
+    "answer_4": "All of the mentioned above",
+    "right_answer": "All of the mentioned above"
+  },
+  {
+    "title": "The list.index(x[, start[, end]]) is used to ___.",
+    "answer_1": "Return zero-based index in the list",
+    "answer_2": "Raises a ValueError if there is no such item",
+    "answer_3": "Both A and B",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "Both A and B"
+  },
+  {
+    "title": "Python Dictionary is used to store the data in a ___ format.",
+    "answer_1": "Key value pair",
+    "answer_2": "Group value pair",
+    "answer_3": "Select value pair",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "Key value pair"
+  },
+  {
+    "title": "Conditional statements are also known as ___ statements.",
+    "answer_1": "Decision-making",
+    "answer_2": "Array",
+    "answer_3": "List",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "Decision-making"
+  },
+  {
+    "title": "Amongst which of the following is / are the conditional statement in Python code?",
+    "answer_1": "if a<=100:",
+    "answer_2": "if (a >= 10)",
+    "answer_3": "if (a => 200)",
+    "answer_4": "None of the mentioned above",
+    "right_answer": "if a<=100:"
+  }
+]
+
+
+
+
+
+
+

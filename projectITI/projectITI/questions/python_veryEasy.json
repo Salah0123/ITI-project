@@ -1,0 +1,84 @@
+
+
+[
+  {
+    "title": "What do we use to define a block of code in Python language?",
+    "answer_1": "Indentation",
+    "answer_2": "Key",
+    "answer_3": "Brackets",
+    "answer_4": "None",
+    "right_answer": "Indentation"
+  },
+  {
+    "title": "Which keyword is used for function in Python language?",
+    "answer_1": "Fun",
+    "answer_2": "Def",
+    "answer_3": "Function",
+    "answer_4": "Define",
+    "right_answer": "Def"
+  },
+  {
+    "title": "Python supports the creation of anonymous functions at runtime, using a construct called_________",
+    "answer_1": "anonymous",
+    "answer_2": "pi",
+    "answer_3": "lambda",
+    "answer_4": "None",
+    "right_answer": "lambda"
+  },
+  {
+    "title": "What does pip stand for python?",
+    "answer_1": "all private members must have leading and trailing underscores",
+    "answer_2": "Preferred Installer Program",
+    "answer_3": "unlimited length",
+    "answer_4": "Dnone",
+    "right_answer": "Preferred Installer Program"
+  },
+  {
+    "title": "In which year was the Python 3.0 version developed?",
+    "answer_1": "2000",
+    "answer_2": "2008",
+    "answer_3": "2010",
+    "answer_4": "2005",
+    "right_answer": "2008"
+  },
+  {
+    "title": "Which of the following is the use of id() function in python?",
+    "answer_1": "Every object doesn’t have a unique id",
+    "answer_2": "Id returns the identity of the object",
+    "answer_3": "All the above",
+    "answer_4": "None of these",
+    "right_answer": "Id returns the identity of the object"
+  },
+  {
+    "title": "What is the method inside the class in python language?",
+    "answer_1": "Object",
+    "answer_2": "Attribute",
+    "answer_3": "Function",
+    "answer_4": "Argument",
+    "right_answer": "Function"
+  },
+  {
+    "title": "Which of the following is not a core data type in Python programming?",
+    "answer_1": "Lists",
+    "answer_2": "Class",
+    "answer_3": "Tuples",
+    "answer_4": "Dictionary",
+    "right_answer": "Class"
+  },
+  {
+    "title": "Which of these is the definition for packages in Python?",
+    "answer_1": "A set of programs making use of Python module",
+    "answer_2": "A number of files containing Python definitions and statementsr",
+    "answer_3": "A folder of python modules",
+    "answer_4": "A set of main modules",
+    "right_answer": "A folder of python modules"
+  },
+  {
+    "title": "Which one of the following is the correct extension of the Python file?",
+    "answer_1": ".p",
+    "answer_2": ".python",
+    "answer_3": ".py",
+    "answer_4": "All of these",
+    "right_answer": ".py"
+  }
+]

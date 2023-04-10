@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Choose correct statement about Functions in C Language.",
+    "answer_1": "A Function is a group of c statements which can be reused any number of times",
+    "answer_2": "Every Function has a return type",
+    "answer_3": "Every Function may no may not return a value",
+    "answer_4": "All the above",
+    "right_answer": "All the above"
+  },
+  {
+    "title": "A function which calls itself is called a ___ function.",
+    "answer_1": "Self Function",
+    "answer_2": "Auto Function",
+    "answer_3": "Recursive Function",
+    "answer_4": "Static Function",
+    "right_answer": "Recursive Function"
+  },
+  {
+    "title": "What are the types of functions in C Language?",
+    "answer_1": "Library Functions",
+    "answer_2": "User Defined Functions",
+    "answer_3": "Both Library and User Defined",
+    "answer_4": "None of the above",
+    "right_answer": "Both Library and User Defined"
+  },
+  {
+    "title": "Choose correct statements about C Language Pass By Value.",
+    "answer_1": "Pass By Value copies the variable value in one more memory location",
+    "answer_2": "Pass By Value does not use Pointers",
+    "answer_3": "Pass By Value protects your source or original variables from changes in outside functions or called functions",
+    "answer_4": "All the above",
+    "right_answer": "All the above"
+  },
+  {
+    "title": "What is the limit for number of functions in a C Program?",
+    "answer_1": "16",
+    "answer_2": "31",
+    "answer_3": "32",
+    "answer_4": "No Limit",
+    "right_answer": "No Limit"
+  },
+  {
+    "title": "Every C Program should contain which functionEvery C Program should contain which function?",
+    "answer_1": "scanf()",
+    "answer_2": "main()",
+    "answer_3": "printf()",
+    "answer_4": "show()",
+    "right_answer": "main()"
+  },
+  {
+    "title": "What is the minimum number of functions to be present in a C Program?",
+    "answer_1": "1",
+    "answer_2": "2",
+    "answer_3": "3",
+    "answer_4": "4",
+    "right_answer": "1"
+  },
+  {
+    "title": "What characters are allowed in a C function name identifier?",
+    "answer_1": "Alphabets, Numbers, %, $, _",
+    "answer_2": "Alphabets, Numbers, Underscore ( _ )",
+    "answer_3": "Alphabets, Numbers, dollar $",
+    "answer_4": "Alphabets, Numbers, %",
+    "right_answer": "Alphabets, Numbers, Underscore ( _ )"
+  },
+  {
+    "title": "Choose a corrects statement about C language function arguments.",
+    "answer_1": "Number of arguments should be same when sending and receiving",
+    "answer_2": "Type of each argument should match exactly",
+    "answer_3": "Order of each argument should be same",
+    "answer_4": "All the above",
+    "right_answer": "All the above"
+  },
+  {
+    "title": "Arguments received by a function in C language are called ___ arguments.",
+    "answer_1": "Definite arguments",
+    "answer_2": "Formal arguments",
+    "answer_3": "Actual arguments",
+    "answer_4": "Ideal arguments",
+    "right_answer": "Formal arguments"
+  }
+]
+

@@ -1,0 +1,85 @@
+
+
+
+[
+  {
+    "title": "Which of the following is an invalid if-else statement?",
+    "answer_1": "if (if (a == 1)){}",
+    "answer_2": "if (func1 (a)){}",
+    "answer_3": "if (a){}",
+    "answer_4": "if ((char) a){}",
+    "right_answer": "if (if (a == 1)){}"
+  },
+  {
+    "title": "The “else if” in conditional inclusion is written by?",
+    "answer_1": "#else if",
+    "answer_2": "#elseif",
+    "answer_3": "#elsif",
+    "answer_4": "#elif",
+    "right_answer": "#elif"
+  },
+  {
+    "title": "In a conditional inclusion, if the condition that comes after the if is true, then what will happen during compilation?",
+    "answer_1": "Then the code up to the following #else or #elif or #endif is compiled",
+    "answer_2": "Then the code up to the following #endif is compiled even if #else or #elif is present",
+    "answer_3": "Then the code up to the following #eliif is compiled",
+    "answer_4": "None of the mentioned",
+    "right_answer": "Then the code up to the following #else or #elif or #endif is compiled"
+  },
+  {
+    "title": "Conditional inclusion can be used for ___________",
+    "answer_1": "Preventing multiple declarations of a variable",
+    "answer_2": "Check for existence of a variable and doing something if it exists",
+    "answer_3": "Preventing multiple declarations of same function",
+    "answer_4": "All of the mentioned",
+    "right_answer": "All of the mentioned"
+  },
+  {
+    "title": "For each #if, #ifdef, and #ifndef directive.",
+    "answer_1": "There are zero or more #elif directives",
+    "answer_2": "Zero or one #else directive",
+    "answer_3": "One matching #endif directive",
+    "answer_4": "All of the mentioned",
+    "right_answer": "All of the mentioned"
+  },
+  {
+    "title": "The #else directive is used for _________",
+    "answer_1": "Conditionally include source text if the previous #if, #ifdef, #ifndef, or #elif test fails",
+    "answer_2": "Conditionally include source text if a macro name is not defined",
+    "answer_3": "Conditionally include source text if a macro name is defined",
+    "answer_4": "Ending conditional text",
+    "right_answer": "Conditionally include source text if the previous #if, #ifdef, #ifndef, or #elif test fails"
+  },
+  {
+    "title": "Which datatype can accept the switch statement?",
+    "answer_1": "int",
+    "answer_2": "char",
+    "answer_3": "long",
+    "answer_4": "all of the mentioned",
+    "right_answer": "all of the mentioned"
+  },
+  {
+    "title": "Which of the following is most suitable for a menu-dricen program?",
+    "answer_1": "For",
+    "answer_2": "while",
+    "answer_3": "do-while",
+    "answer_4": "All of the above",
+    "right_answer": "For"
+  },
+  {
+    "title": "Consider the following loop: for(int i = 0; i<5; i++);",
+    "answer_1": "It will give compilation error.",
+    "answer_2": "5",
+    "answer_3": "6",
+    "answer_4": "Some Garbage value",
+    "right_answer": "5"
+  },
+  {
+    "title": "A switch construct can be used with which of the following types of variable?",
+    "answer_1": "int",
+    "answer_2": "int, char",
+    "answer_3": "int, float, char",
+    "answer_4": "Any basic datatype",
+    "right_answer": "int, char"
+  }
+]

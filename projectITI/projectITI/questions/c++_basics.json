@@ -1,0 +1,85 @@
+[
+  {
+    "title": "Who created C++?",
+    "answer_1": "Bjarne Stroustrup",
+    "answer_2": "Dennis Ritchie",
+    "answer_3": "Ken Thompson",
+    "answer_4": "Brian Kernighan",
+    "right_answer": "Bjarne Stroustrup"
+  },
+  {
+    "title": "C++ Language developed at _________?",
+    "answer_1": "AT & T's Bell Laboratories of USA in 1972",
+    "answer_2": "Sun Microsystems in 1973",
+    "answer_3": "Cambridge University in 1972",
+    "answer_4": "AT & T's Bell Laboratories of USA in 1979",
+    "right_answer": "AT & T's Bell Laboratories of USA in 1979"
+  },
+  {
+    "title": "Which one of the following is a keyword?",
+    "answer_1": "Size",
+    "answer_2": "Key",
+    "answer_3": "Jump",
+    "answer_4": "Switch",
+    "right_answer": "Switch"
+  },
+  {
+    "title": "____ is the smallest individual unit in a program.",
+    "answer_1": "Variable",
+    "answer_2": "Control",
+    "answer_3": "Character",
+    "answer_4": "Token",
+    "right_answer": "Token"
+  },
+  {
+    "title": "Which of the following is the correct syntax of including a user defined header files in C++?",
+    "answer_1": "#include <userdefined.h>",
+    "answer_2": "#include <userdefined>",
+    "answer_3": "#include “userdefined”",
+    "answer_4": "#include [userdefined]",
+    "right_answer": "#include “userdefined”"
+  },
+  {
+    "title": "Which of the following is a correct identifier in C++?",
+    "answer_1": "7var_name",
+    "answer_2": "7VARNAME",
+    "answer_3": "VAR_1234",
+    "answer_4": "$var_name",
+    "right_answer": "VAR_1234"
+  },
+  {
+    "title": "Which of the following is called address operator?",
+    "answer_1": "*",
+    "answer_2": "&",
+    "answer_3": "_",
+    "answer_4": "%",
+    "right_answer": "&"
+  },
+  {
+    "title": "C++ is _______ type of programming language.?",
+    "answer_1": "Object Oriented",
+    "answer_2": "Procedural",
+    "answer_3": "Bit level language",
+    "answer_4": "Functional",
+    "right_answer": "Object Oriented"
+  },
+  {
+    "title": "Which of the following is used for comments in C++?",
+    "answer_1": "// comment",
+    "answer_2": "/* comment */",
+    "answer_3": "both // comment or /* comment */",
+    "answer_4": "// comment */",
+    "right_answer": "both // comment or /* comment */"
+  },
+  {
+    "title": "What are the actual parameters in C++?",
+    "answer_1": "Parameters with which functions are called",
+    "answer_2": "Parameters which are used in the definition of a function",
+    "answer_3": "Variables other than passed parameters in a function",
+    "answer_4": "Variables that are never used in the function",
+    "right_answer": "Parameters with which functions are called"
+  }
+]
+ 
+
+

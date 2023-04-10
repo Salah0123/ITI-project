@@ -1,0 +1,90 @@
+
+
+
+
+[
+  {
+    "title": "JavaScript allows you to work with __________ primitive data types.",
+    "answer_1": "1",
+    "answer_2": "2",
+    "answer_3": "3",
+    "answer_4": "4",
+    "right_answer": "3"
+  },
+  {
+    "title": "JavaScript also defines _______ trivial data types.",
+    "answer_1": "1",
+    "answer_2": "2",
+    "answer_3": "3",
+    "answer_4": "4",
+    "right_answer": "2"
+  },
+  {
+    "title": "Variables are declared with the _______ keyword.",
+    "answer_1": "this",
+    "answer_2": "int",
+    "answer_3": "var",
+    "answer_4": "new",
+    "right_answer": "var"
+  },
+  {
+    "title": "Storing a value in a variable is called ?",
+    "answer_1": "variable declaration",
+    "answer_2": "variable destroyed",
+    "answer_3": "variable store",
+    "answer_4": "variable initialization",
+    "right_answer": "variable initialization"
+  },
+  {
+    "title": "JavaScript is untyped language.",
+    "answer_1": "Yes",
+    "answer_2": "No",
+    "answer_3": "Can be yes or no",
+    "answer_4": "Can be yes or no",
+    "right_answer": "Yes"
+  },
+  {
+    "title": "A ___________ has global scope which means it can be defined anywhere in your JavaScript code.",
+    "answer_1": "local variable",
+    "answer_2": "global variable",
+    "answer_3": "simple variable",
+    "answer_4": "complex variable",
+    "right_answer": "global variable"
+  },
+  {
+    "title": "Which of the following true about JavaScript variable?",
+    "answer_1": "JavaScript variable names are case-sensitive",
+    "answer_2": "JavaScript variable names should not start with a numeral",
+    "answer_3": "You should not use any of the JavaScript reserved keywords as a variable name.",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "Which of the following are javaScript reserved words?",
+    "answer_1": "enum",
+    "answer_2": "long",
+    "answer_3": "finally",
+    "answer_4": "All of the above",
+    "right_answer": "All of the above"
+  },
+  {
+    "title": "byte is reserved word in Javascript?",
+    "answer_1": "Yes",
+    "answer_2": "No",
+    "answer_3": "Can be yes or no",
+    "answer_4": "Can not say",
+    "right_answer": "Yes"
+  },
+  {
+    "title": "123test is an valid variable name?",
+    "answer_1": "TRUE",
+    "answer_2": "FALSE",
+    "answer_3": "Can be true or false",
+    "answer_4": "Can not say",
+    "right_answer": "TRUE"
+  }
+]
+
+
+
+
