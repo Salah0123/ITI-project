@@ -13,47 +13,74 @@
         crossorigin="anonymous" referrerpolicy="no-referrer" />
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="../../home.css">
+    <style>
+        .gamal{
+            margin-top: 100px;
+            /* display: flex; */
+        }
+        .right{
+            margin-top: 100px;
+        }
+    </style>
 </head>
-
-<i class="tutor-icon-star-full" data-rating-value="1"></i>
-
 <body>
-    <header>
-        <h2><a href="projet.html" class="logo">ECOURSES</a></h2>
-        <div class="logIn_btn">
-            <!-- <button class="brnFirst">Log In</button> -->
-        </div>
 
+
+    <header>
+        <h2><a href="../../projet.html" class="logo">ECOURSES</a></h2>
+        <div class="logIn_btn">
+            <button class="brnFirst">Log In</button>
+        </div>
+    
         <div class="formContainer">
-            <!-- <form id="login-form">
+            <form id="login-form">
                 <div>
                     <label for="username" class="inputTitle">Username:</label>
                     <input type="text" id="username" name="username" /><br />
                 </div>
-
+    
                 <div>
-                    4<label for="password" class="inputTitle">Password:</label>
+                    <label for="password" class="inputTitle">Password:</label>
                     <input type="password" id="password" name="password" /><br />
                 </div>
-
+    
                 <input type="button" value="Log In" id="submitForm" />
-            </form> -->
+            </form>
         </div>
-
+    
         <div id="result"></div>
-
+    
         <ul>
-            <li><a href="#">learn programing</a></li>
-            <li><a href="./projectITI/main.html">problem solving</a></li>
-            <li><a href="#">all courses</a></li>
-            <li><a href="#">home</a></li>
+            <li><a href="../../finalproject/finalH.html">games</a></li>
+            <li class="dropdown">
+                <a href="../../project-1/road.html" class="dropbtn">ROAD MAP</a>
+                <div class="dropdown-content">
+                    <a href="../../project-1/road.html">FULL STACK</a>
+                    <a href="../../project-1/road2.html">CYPER SECURITY</a>
+                    <a href="../../project-1/road3.html">Javascript</a>
+                </div>
+            </li>
+            <li class="dropdown">
+                <a href="../../projectITI/projectITI/main.html" class="dropbtn">PROBLEM SOLVING</a>
+                <div class="dropdown-content">
+                    <a href="../../projectITI/projectITI/c.html"> C </a>
+                    <a href="../../projectITI/projectITI/c++.html">C++</a>
+                    <a href="../../projectITI/projectITI/javascript.html">Javascript</a>
+                    <a href="../../projectITI/projectITI/css.html">CSS</a>
+                    <a href="../../projectITI/projectITI/html.html">HTML</a>
+                    <a href="../../projectITI/projectITI/python.html">PYTHON</a>
+                </div>
+            </li>
+            <li><a href="../../project-4/project/allcourses.html">all courses</a></li>
+            <li><a href="../../projet.html">home</a></li>
         </ul>
     </header>
-    <div>
+    <div class="gamal">
         <div class="right">
             <div>
-                <div class="box"> <input id="searched" type="search" placeholder="Search...."><i
-                        class="fa-sharp fa-solid fa-magnifying-glass"></i>
+                <div> <input id="searched" type="search" placeholder="Search....">
+                    <i class="fa-sharp fa-solid fa-magnifying-glass"></i>
                 </div>
                 <h3>Category</h3>
                 <input id="check1" type="checkbox" name="Category"><label for="check1">Backend</label><br>
@@ -186,12 +213,37 @@
 
         </div>
     </div>
+    <br />
+    <div>
+        <span class="up">up</span>
+    </div>
+    <br />
+    <div class="box">
+        <div class="top">
+            <h1>Ask Your Questions ??</h1>
+        </div>
+        <div class="mid">
+            <div class="chat">
+                <h2>Answers For your Questions are below ...</h2>
+                <p id="chatLog">Let's Chat</p>
+            </div>
+        </div>
+        <div class="input">
+            <input type="text" id="userBox" onkeydown="if(event.keyCode == 13){ talk()}" placeholder="Type your Question" />
+        </div>
+    </div>
+    
+    <div class="iconChat">
+        <i class="fa-brands fa-facebook-messenger"></i>
+    </div>
     <footer>
         <p>
-            Copyright &copy; 2023 <img src="images/iti-team.png" alt="logo" /> All
+            Copyright &copy; 2023 <img src="../../images/iti-team.png" alt="logo" /> All
             Rights Reserved.
         </p>
     </footer>
+    <script src="../../projectITI/projectITI/edits/home.js"></script>
+    <script src="../../chat/script.js"></script>
     <script src="main.js"></script>
 </body>
 
